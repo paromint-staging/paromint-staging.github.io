@@ -1,1 +1,1 @@
-# paromint-staging.github.io
+# Paromint
